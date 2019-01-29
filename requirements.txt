@@ -1,1 +1,2 @@
-pysubs2
+pysubs2=0.2.3
+chardet=3.0.4
